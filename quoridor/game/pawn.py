@@ -1,0 +1,1 @@
+"""Pawn movement rules."""
