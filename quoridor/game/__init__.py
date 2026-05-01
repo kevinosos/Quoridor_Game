@@ -99,7 +99,7 @@ class Board:
         return False
 
     
-    # Wall Placement — Private Helpers
+    # Wall Placement — Private Helper
     
 
     def _place_horizontal_wall(self, row, col):
